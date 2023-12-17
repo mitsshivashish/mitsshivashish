@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello Developers 
 
-<!--
-**mitsshivashish/mitsshivashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>- This is first repository in which i  will be running hello world
+>
+>- and this code will be runned on c++ kanguage
+>- #include<iostream>
+using namespace std
 
-Here are some ideas to get you started:
+int main(){
+cout<<"hello world";
+return 0;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for seeing my code :)
